@@ -1,0 +1,10 @@
+﻿  MathLib.cpp
+C:\Users\Office_1\source\repos\InjectTestDLL\InjectTestDLL\MathLib.cpp(111,1): warning C4273: fibonacci_init: несовместимое связывание dll
+C:\Users\Office_1\source\repos\InjectTestDLL\InjectTestDLL\MathLib.h(12,33): message : см. предыдущее определение "fibonacci_init"
+     Создается библиотека C:\Users\Office_1\source\repos\InjectTestDLL\Release\InjectTestDLL.lib и объект C:\Users\Office_1\source\repos\InjectTestDLL\Release\InjectTestDLL.exp
+  Создание кода
+  5 of 9 functions (55.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  InjectTestDLL.vcxproj -> C:\Users\Office_1\source\repos\InjectTestDLL\Release\InjectTestDLL.dll

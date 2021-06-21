@@ -1,0 +1,6 @@
+﻿  CodeInjectorSimple.cpp
+C:\Users\Office_1\source\repos\CodeInjectorSimple\CodeInjectorSimple\CodeInjectorSimple.cpp(39,50): warning C4311: приведение типов: усечение указателя из "BYTE *" в "DWORD"
+C:\Users\Office_1\source\repos\CodeInjectorSimple\CodeInjectorSimple\CodeInjectorSimple.cpp(39,50): warning C4302: приведение типов: усечение из "BYTE *" к "DWORD"
+C:\Users\Office_1\source\repos\CodeInjectorSimple\CodeInjectorSimple\CodeInjectorSimple.cpp(88,63): warning C4312: приведение типов: преобразование из "DWORD" в "__MessageBoxA" большего размера
+C:\Users\Office_1\source\repos\CodeInjectorSimple\CodeInjectorSimple\CodeInjectorSimple.cpp(105,39): warning C4312: приведение типов: преобразование из "DWORD" в "__MsgITD" большего размера
+  CodeInjectorSimple.vcxproj -> C:\Users\Office_1\source\repos\CodeInjectorSimple\x64\Debug\CodeInjectorSimple.exe
