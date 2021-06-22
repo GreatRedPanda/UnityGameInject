@@ -1,11 +1,11 @@
 ﻿// dllmain.cpp : Определяет точку входа для приложения DLL.
 #include "pch.h"
-#include "MathLib.h"
+#include "InjectLib.h"
 #include <iostream>
 
 DWORD WINAPI myThread(HMODULE hModule)
 {
-    fibonacci_init(hModule, 4);
+    greenSquaresSpawn_Init(hModule, 4);
     //while true
     //{
         //Some hack logic.
